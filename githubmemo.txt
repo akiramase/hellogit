@@ -1,0 +1,17 @@
+githubメモ　2/11 mase
+
+１、github上でリモートリポジトリを作成
+　https://github.com/akiramase/etcetc
+
+２、リモートリポジトリを作成
+　GITbush で作業
+   ・githubディレクトリにてmkdirする
+　 ・cd で移動後　git init
+   ・公開するファイルをおく
+　 ・git add ○○○.pdf とか
+　 ・git commit -m  "ははは"
+
+３、リモートにpush
+   ・git remote add origin https://github.com/akiramase/etcetc.git
+   ・git push origin master
+　
